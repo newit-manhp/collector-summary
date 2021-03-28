@@ -5,8 +5,6 @@ const { initial, isEmpty, last, map, reduce } = require('lodash');
 const readStream = process.stdin;
 // const readStream = fs.createReadStream('./log.txt');
 
-const isEmpty = (item) => item == '' || item == {} || item == [];
-
 const processLineByLine = () => {
   let buffer = '';
   return new Transform({
@@ -135,26 +133,41 @@ const partitionByShop = () => {
           break;
         }
         case 'collector_finished': {
+          if (!this.shops.get(shop)) {
+            break;
+          }
           this.shops.get(shop).end_time = time;
           break;
         }
         case 'collection_started': {
+          if (!this.shops.get(shop)) {
+            break;
+          }
           const { collection } = rest;
           this.shops.get(shop).collections.set(collection, { time });
           break;
         }
         case 'collection_finished': {
+          if (!this.shops.get(shop)) {
+            break;
+          }
           const { collection } = rest;
           this.shops.get(shop).collections.get(collection).end_time = time;
           break;
         }
         case 'collection_report': {
+          if (!this.shops.get(shop)) {
+            break;
+          }
           const { collection, count, key } = rest;
           this.shops.get(shop).collections.get(collection).count = count;
           this.shops.get(shop).collections.get(collection).key = key;
           break;
         }
         case 'mercari_collected': {
+          if (!this.shops.get(shop)) {
+            break;
+          }
           const { total } = rest;
           this.shops.get(shop).total = total;
           break;
@@ -206,10 +219,10 @@ const partitionByShop = () => {
 };
 
 readStream
-  .pipe(processLineByLine())
+  .pipe(processLineByLine()) 
   .pipe(parseItem)
   .pipe(partitionByShop())
-  .pipe(process.stdout)
+  .pipe(process.stdout, { end: false })
   .on('error', (err) => {
     console.error(err);
   });
