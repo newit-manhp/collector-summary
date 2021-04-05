@@ -2,8 +2,8 @@ const fs = require('fs');
 const { Transform } = require('stream');
 const { initial, isEmpty, last, map, reduce } = require('lodash');
 
-// const readStream = process.stdin;
-const readStream = fs.createReadStream('./log.txt');
+const readStream = process.stdin;
+// const readStream = fs.createReadStream('./log.log');
 
 const processLineByLine = () => {
   let buffer = '';
@@ -14,17 +14,13 @@ const processLineByLine = () => {
       if (!isEmpty(data)) {
         buffer = last(data);
       }
-      const src = initial(data).join(' ');
-      const pattern = /\]\s+(.*?)\s+(\d{13,13})/g;
-      while ((m = pattern.exec(src))) {
-        if (
-          /Started for:|Finished for:|items collected from mercari|collector started \{|items of|collector finished \{/.test(
-            `${m[1]}`
-          )
-        ) {
+      const init = initial(data);
+      for (const line of init) {
+        const pattern = /([0-9\|.: -]+),(.*)/g;
+        while ((m = pattern.exec(line))) {
           this.push({
-            time: parseInt(m[2]),
-            text: `${m[1]}`,
+            time: new Date(m[1]).getTime(),
+            text: `${m[2]}`,
           });
         }
       }
@@ -43,47 +39,6 @@ const parseItem = new Transform({
   objectMode: true,
   writableObjectMode: true,
   transform({ time, text }, _, done) {
-    if ((m = /collector started \{.*'(.*)'.*\}/.exec(text))) {
-      // for start collector
-      this.push({
-        time,
-        type: 'collector_started',
-        shop: `${m[1]}`,
-      });
-      return done();
-    }
-    if ((m = /collector finished \{.*'(.*)'.*\}/.exec(text))) {
-      // for start collector
-      this.push({
-        time,
-        type: 'collector_finished',
-        shop: `${m[1]}`,
-      });
-      return done();
-    }
-    if (text.includes('Schoolgirl Strikers goods')){
-      console.log('asd');
-    }
-    if ((m = /Started for:\s+(.*) \{.*'(.*)'\s?\}/.exec(text))) {
-      // for start collection
-      this.push({
-        time,
-        type: 'collection_started',
-        collection: `${m[1]}`,
-        shop: `${m[2]}`,
-      });
-      return done();
-    }
-    if ((m = /Finished for:\s+(.*) \{.*'(.*)'\s?\}/.exec(text))) {
-      // collection finished
-      this.push({
-        time,
-        type: 'collection_finished',
-        collection: `${m[1]}`,
-        shop: `${m[2]}`,
-      });
-      return done();
-    }
     if (
       (m = /(\d+).*items collected from mercari. \{.*'(.*)'\s?\}/.exec(text))
     ) {
@@ -113,6 +68,7 @@ const parseItem = new Transform({
       });
       return done();
     }
+    done();
   },
 });
 
@@ -125,57 +81,21 @@ const partitionByShop = () => {
         this.shops = new Map();
       }
       switch (type) {
-        case 'collector_started': {
-          if (this.shops.has(shop)) {
-            if (this.shops.get(shop).time < time) {
-              this.shops.set(shop, { time, collections: new Map() });
-            }
-          } else {
-            this.shops.set(shop, { time, collections: new Map() });
-          }
-          break;
-        }
-        case 'collector_finished': {
-          if (!this.shops.get(shop)) {
-            break;
-          }
-          this.shops.get(shop).end_time = time;
-          break;
-        }
-        case 'collection_started': {
-          if (!this.shops.get(shop)) {
-            break;
-          }
-          const { collection } = rest;
-          if (collection == 'Schoolgirl Strikers goods') {
-            console.log('ass')
-          }
-          this.shops.get(shop).collections.set(collection, { time });
-          break;
-        }
-        case 'collection_finished': {
-          if (!this.shops.get(shop)) {
-            break;
-          }
-          const { collection } = rest;
-          if (!this.shops.get(shop).collections.get(collection)){
-            console.log('failed');
-          }
-          this.shops.get(shop).collections.get(collection).end_time = time;
-          break;
-        }
         case 'collection_report': {
           if (!this.shops.get(shop)) {
-            break;
+            this.shops.set(shop, {
+              collections: new Map(),
+            });
           }
           const { collection, count, key } = rest;
-          this.shops.get(shop).collections.get(collection).count = count;
-          this.shops.get(shop).collections.get(collection).key = key;
+          this.shops.get(shop).collections.set(collection, { count, key });
           break;
         }
         case 'mercari_collected': {
           if (!this.shops.get(shop)) {
-            break;
+            this.shops.set(shop, {
+              collections: new Map(),
+            });
           }
           const { total } = rest;
           this.shops.get(shop).total = total;
@@ -192,8 +112,6 @@ const partitionByShop = () => {
               key,
               {
                 ...collection,
-                start_time: time,
-                duration: (collection.end_time - time) / 1000,
               },
             ]
           );
@@ -201,7 +119,6 @@ const partitionByShop = () => {
             shopName,
             {
               actual: shop.total,
-              duration: (shop.end_time - shop.time) / 1000,
               total: reduce(
                 collections,
                 (prev, curr) => prev + (curr[1].count || 0),
@@ -228,10 +145,11 @@ const partitionByShop = () => {
 };
 
 readStream
-  .pipe(processLineByLine()) 
+  .pipe(processLineByLine())
   .pipe(parseItem)
   .pipe(partitionByShop())
   .pipe(process.stdout, { end: false })
+  // .pipe(fs.createWriteStream('result.json'))
   .on('error', (err) => {
     console.error(err);
   });

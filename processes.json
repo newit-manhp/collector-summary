@@ -1,0 +1,5236 @@
+[
+  [
+    {
+      "shop": "001-louis-vuitton",
+      "op": "added",
+      "value": "9/9"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "added",
+      "value": "5/6"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "added",
+      "value": "24/27"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "added",
+      "value": "24/35"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "5/5"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "13/14"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "8/8"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "38/38"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "7/7"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "9/9"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "deleted",
+      "value": "38/38"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "xinanyu",
+      "value": "11085"
+    },
+    {
+      "shop": "001-louis-vuitton",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "002-chanel",
+      "op": "added",
+      "value": "14/14"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "added",
+      "value": "16/17"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "deleted",
+      "value": "35/35"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "deleted",
+      "value": "20/20"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "xinanyu",
+      "value": "2954"
+    },
+    {
+      "shop": "002-chanel",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "003-gucci",
+      "op": "added",
+      "value": "4/5"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "added",
+      "value": "31/33"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "added",
+      "value": "2/2"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "added",
+      "value": "38/39"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "deleted",
+      "value": "46/46"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "deleted",
+      "value": "42/42"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "deleted",
+      "value": "5/5"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "xinanyu",
+      "value": "6896"
+    },
+    {
+      "shop": "003-gucci",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "004-one-piece",
+      "op": "added",
+      "value": "32/41"
+    },
+    {
+      "shop": "004-one-piece",
+      "op": "added",
+      "value": "97/100"
+    },
+    {
+      "shop": "004-one-piece",
+      "op": "deleted",
+      "value": "44/44"
+    },
+    {
+      "shop": "004-one-piece",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "004-one-piece",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "004-one-piece",
+      "op": "xinanyu",
+      "value": "23632"
+    },
+    {
+      "shop": "004-one-piece",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "004-one-piece-goods",
+      "op": "added",
+      "value": "75/83"
+    },
+    {
+      "shop": "004-one-piece-goods",
+      "op": "added",
+      "value": "69/100"
+    },
+    {
+      "shop": "004-one-piece-goods",
+      "op": "deleted",
+      "value": "46/46"
+    },
+    {
+      "shop": "004-one-piece-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "004-one-piece-goods",
+      "op": "xinanyu",
+      "value": "25185"
+    },
+    {
+      "shop": "004-one-piece-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "005-gundam",
+      "op": "added",
+      "value": "73/73"
+    },
+    {
+      "shop": "005-gundam",
+      "op": "deleted",
+      "value": "91/94"
+    },
+    {
+      "shop": "005-gundam",
+      "op": "xinanyu",
+      "value": "9759"
+    },
+    {
+      "shop": "005-gundam",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "005-gundam-goods",
+      "op": "added",
+      "value": "22/22"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "added",
+      "value": "97/100"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "added",
+      "value": "82/100"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "deleted",
+      "value": "74/74"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30541"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30541"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30541"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30341"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30541"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30341"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30541"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30341"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "xinanyu",
+      "value": "30541"
+    },
+    {
+      "shop": "005-gundam-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "006-yugioh",
+      "op": "added",
+      "value": "247/251"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "added",
+      "value": "488/500"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "added",
+      "value": "494/500"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "deleted",
+      "value": "408/408"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "xinanyu",
+      "value": "129095"
+    },
+    {
+      "shop": "006-yugioh",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "007-masked-rider",
+      "op": "added",
+      "value": "46/51"
+    },
+    {
+      "shop": "007-masked-rider",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "007-masked-rider",
+      "op": "deleted",
+      "value": "88/88"
+    },
+    {
+      "shop": "007-masked-rider",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "007-masked-rider",
+      "op": "xinanyu",
+      "value": "22832"
+    },
+    {
+      "shop": "007-masked-rider",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "007-masked-rider-belt",
+      "op": "added",
+      "value": "13/13"
+    },
+    {
+      "shop": "007-masked-rider-belt",
+      "op": "deleted",
+      "value": "14/14"
+    },
+    {
+      "shop": "007-masked-rider-belt",
+      "op": "xinanyu",
+      "value": "1499"
+    },
+    {
+      "shop": "007-masked-rider-belt",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "008-nogizaka",
+      "op": "added",
+      "value": "186/186"
+    },
+    {
+      "shop": "008-nogizaka",
+      "op": "deleted",
+      "value": "244/244"
+    },
+    {
+      "shop": "008-nogizaka",
+      "op": "xinanyu",
+      "value": "39675"
+    },
+    {
+      "shop": "008-nogizaka",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "008-nogizaka",
+      "op": "added",
+      "value": "135/135"
+    },
+    {
+      "shop": "008-nogizaka",
+      "op": "deleted",
+      "value": "180/180"
+    },
+    {
+      "shop": "008-nogizaka",
+      "op": "xinanyu",
+      "value": "39720"
+    }
+  ],
+  [
+    {
+      "shop": "009-haikyu",
+      "op": "added",
+      "value": "10/10"
+    },
+    {
+      "shop": "009-haikyu",
+      "op": "deleted",
+      "value": "7/7"
+    },
+    {
+      "shop": "009-haikyu",
+      "op": "xinanyu",
+      "value": "553"
+    },
+    {
+      "shop": "009-haikyu",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "009-haikyu",
+      "op": "xinanyu",
+      "value": "553"
+    },
+    {
+      "shop": "009-haikyu",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "009-haikyu-goods",
+      "op": "added",
+      "value": "433/437"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "deleted",
+      "value": "46/46"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "xinanyu",
+      "value": "65466"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "added",
+      "value": "406/419"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "deleted",
+      "value": "383/383"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "xinanyu",
+      "value": "65040"
+    },
+    {
+      "shop": "009-haikyu-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "010-saint-seiya",
+      "op": "xinanyu",
+      "value": "364"
+    },
+    {
+      "shop": "010-saint-seiya",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "010-saint-seiya",
+      "op": "added",
+      "value": "4/4"
+    },
+    {
+      "shop": "010-saint-seiya",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "010-saint-seiya",
+      "op": "xinanyu",
+      "value": "366"
+    },
+    {
+      "shop": "010-saint-seiya",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "011-dragonball",
+      "op": "added",
+      "value": "70/72"
+    },
+    {
+      "shop": "011-dragonball",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "011-dragonball",
+      "op": "deleted",
+      "value": "35/35"
+    },
+    {
+      "shop": "011-dragonball",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "011-dragonball",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "011-dragonball",
+      "op": "xinanyu",
+      "value": "19699"
+    },
+    {
+      "shop": "011-dragonball",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "011-dragonball-cards",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "011-dragonball-cards",
+      "op": "added",
+      "value": "200/245"
+    },
+    {
+      "shop": "011-dragonball-cards",
+      "op": "deleted",
+      "value": "327/327"
+    },
+    {
+      "shop": "011-dragonball-cards",
+      "op": "xinanyu",
+      "value": "42281"
+    },
+    {
+      "shop": "011-dragonball-cards",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "011-dragonball-goods",
+      "op": "added",
+      "value": "162/165"
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "added",
+      "value": "388/500"
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "deleted",
+      "value": "326/336"
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "xinanyu",
+      "value": "80465"
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "deleted",
+      "value": "497/500"
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "xinanyu",
+      "value": "81164"
+    },
+    {
+      "shop": "011-dragonball-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "012-bungo-stray-goods",
+      "op": "added",
+      "value": "42/42"
+    },
+    {
+      "shop": "012-bungo-stray-goods",
+      "op": "deleted",
+      "value": "54/54"
+    }
+  ],
+  [
+    {
+      "shop": "013-naruto",
+      "op": "added",
+      "value": "4/4"
+    },
+    {
+      "shop": "013-naruto",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "013-naruto",
+      "op": "xinanyu",
+      "value": "547"
+    },
+    {
+      "shop": "013-naruto",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "013-naruto-goods",
+      "op": "added",
+      "value": "29/29"
+    },
+    {
+      "shop": "013-naruto-goods",
+      "op": "deleted",
+      "value": "19/19"
+    },
+    {
+      "shop": "013-naruto-goods",
+      "op": "xinanyu",
+      "value": "6441"
+    },
+    {
+      "shop": "013-naruto-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "013-naruto-goods",
+      "op": "xinanyu",
+      "value": "6441"
+    },
+    {
+      "shop": "013-naruto-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "014-kimetsu",
+      "op": "added",
+      "value": "32/36"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "deleted",
+      "value": "12/12"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "xinanyu",
+      "value": "18909"
+    },
+    {
+      "shop": "014-kimetsu",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "450/452"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "498/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "498/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "484/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "466/466"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "499/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "xinanyu",
+      "value": "189044"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "456/498"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "496/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "497/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "added",
+      "value": "479/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "310/310"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "499/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "499/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "014-kimetsu-goods",
+      "op": "xinanyu",
+      "value": "189612"
+    }
+  ],
+  [
+    {
+      "shop": "015-hero-academia",
+      "op": "added",
+      "value": "6/7"
+    },
+    {
+      "shop": "015-hero-academia",
+      "op": "deleted",
+      "value": "22/22"
+    },
+    {
+      "shop": "015-hero-academia",
+      "op": "xinanyu",
+      "value": "1410"
+    },
+    {
+      "shop": "015-hero-academia",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "015-hero-academia-goods",
+      "op": "added",
+      "value": "111/132"
+    },
+    {
+      "shop": "015-hero-academia-goods",
+      "op": "deleted",
+      "value": "165/165"
+    },
+    {
+      "shop": "015-hero-academia-goods",
+      "op": "xinanyu",
+      "value": "33428"
+    },
+    {
+      "shop": "015-hero-academia-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "016-jojo",
+      "op": "added",
+      "value": "11/11"
+    },
+    {
+      "shop": "016-jojo",
+      "op": "deleted",
+      "value": "22/22"
+    },
+    {
+      "shop": "016-jojo",
+      "op": "xinanyu",
+      "value": "1454"
+    },
+    {
+      "shop": "016-jojo",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "017-sao",
+      "op": "added",
+      "value": "13/14"
+    },
+    {
+      "shop": "017-sao",
+      "op": "deleted",
+      "value": "9/9"
+    },
+    {
+      "shop": "017-sao",
+      "op": "xinanyu",
+      "value": "1113"
+    },
+    {
+      "shop": "017-sao",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "017-sao-goods",
+      "op": "added",
+      "value": "37/38"
+    },
+    {
+      "shop": "017-sao-goods",
+      "op": "deleted",
+      "value": "71/71"
+    },
+    {
+      "shop": "017-sao-goods",
+      "op": "xinanyu",
+      "value": "7522"
+    },
+    {
+      "shop": "017-sao-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "017-sao-goods",
+      "op": "xinanyu",
+      "value": "7522"
+    },
+    {
+      "shop": "017-sao-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "018-miku",
+      "op": "added",
+      "value": "15/15"
+    },
+    {
+      "shop": "018-miku",
+      "op": "deleted",
+      "value": "26/26"
+    },
+    {
+      "shop": "018-miku",
+      "op": "xinanyu",
+      "value": "2250"
+    },
+    {
+      "shop": "018-miku",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "018-miku-goods",
+      "op": "added",
+      "value": "54/59"
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "xinanyu",
+      "value": "10140"
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "xinanyu",
+      "value": "10140"
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "xinanyu",
+      "value": "10140"
+    },
+    {
+      "shop": "018-miku-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "019-evangerion",
+      "op": "xinanyu",
+      "value": "3765"
+    },
+    {
+      "shop": "019-evangerion",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "019-evangerion-goods",
+      "op": "added",
+      "value": "49/52"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "added",
+      "value": "97/100"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "deleted",
+      "value": "68/68"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22209"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22009"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22203"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22209"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "21809"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22209"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22209"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "xinanyu",
+      "value": "22009"
+    },
+    {
+      "shop": "019-evangerion-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "021-digital-monster-goods",
+      "op": "added",
+      "value": "47/47"
+    },
+    {
+      "shop": "021-digital-monster-goods",
+      "op": "deleted",
+      "value": "63/63"
+    }
+  ],
+  [
+    {
+      "shop": "022-celine",
+      "op": "added",
+      "value": "12/12"
+    },
+    {
+      "shop": "022-celine",
+      "op": "deleted",
+      "value": "21/21"
+    },
+    {
+      "shop": "022-celine",
+      "op": "xinanyu",
+      "value": "1246"
+    },
+    {
+      "shop": "022-celine",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "023-dior",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "023-dior",
+      "op": "deleted",
+      "value": "9/9"
+    },
+    {
+      "shop": "023-dior",
+      "op": "xinanyu",
+      "value": "410"
+    },
+    {
+      "shop": "023-dior",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "024-ysl",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "024-ysl",
+      "op": "deleted",
+      "value": "3/3"
+    },
+    {
+      "shop": "024-ysl",
+      "op": "xinanyu",
+      "value": "447"
+    },
+    {
+      "shop": "024-ysl",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "025-bvlgary",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "025-bvlgary",
+      "op": "deleted",
+      "value": "4/4"
+    },
+    {
+      "shop": "025-bvlgary",
+      "op": "xinanyu",
+      "value": "154"
+    },
+    {
+      "shop": "025-bvlgary",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "026-balenciaga",
+      "op": "added",
+      "value": "5/6"
+    },
+    {
+      "shop": "026-balenciaga",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "026-balenciaga",
+      "op": "xinanyu",
+      "value": "729"
+    },
+    {
+      "shop": "026-balenciaga",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "027-fendi",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "deleted",
+      "value": "17/17"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "deleted",
+      "value": "7/7"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "xinanyu",
+      "value": "1260"
+    },
+    {
+      "shop": "027-fendi",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "028-pokemon",
+      "op": "added",
+      "value": "15/15"
+    },
+    {
+      "shop": "028-pokemon",
+      "op": "deleted",
+      "value": "24/24"
+    },
+    {
+      "shop": "028-pokemon",
+      "op": "xinanyu",
+      "value": "2738"
+    },
+    {
+      "shop": "028-pokemon",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "51/51"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "499/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "499/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "478/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "77/77"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "xinanyu",
+      "value": "131220"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "143/150"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "491/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "added",
+      "value": "492/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "237/237"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "028-pokemon-cards",
+      "op": "xinanyu",
+      "value": "131124"
+    }
+  ],
+  [
+    {
+      "shop": "028-pokemon-goods",
+      "op": "added",
+      "value": "474/474"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "added",
+      "value": "472/500"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "added",
+      "value": "498/500"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "added",
+      "value": "58/58"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "added",
+      "value": "437/442"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "420/420"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "4/4"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "474/474"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "26/26"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "453/453"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "47/47"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "490/490"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "deleted",
+      "value": "10/10"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "xinanyu",
+      "value": "145364"
+    },
+    {
+      "shop": "028-pokemon-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "029-arashi-goods",
+      "op": "added",
+      "value": "67/70"
+    },
+    {
+      "shop": "029-arashi-goods",
+      "op": "deleted",
+      "value": "10/10"
+    },
+    {
+      "shop": "029-arashi-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "029-arashi-goods",
+      "op": "xinanyu",
+      "value": "19914"
+    },
+    {
+      "shop": "029-arashi-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "030-bts",
+      "op": "added",
+      "value": "29/32"
+    },
+    {
+      "shop": "030-bts",
+      "op": "added",
+      "value": "95/100"
+    },
+    {
+      "shop": "030-bts",
+      "op": "deleted",
+      "value": "24/24"
+    },
+    {
+      "shop": "030-bts",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "030-bts",
+      "op": "xinanyu",
+      "value": "17963"
+    },
+    {
+      "shop": "030-bts",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "031-bigbang",
+      "op": "added",
+      "value": "6/6"
+    },
+    {
+      "shop": "031-bigbang",
+      "op": "deleted",
+      "value": "5/5"
+    },
+    {
+      "shop": "031-bigbang",
+      "op": "xinanyu",
+      "value": "1911"
+    },
+    {
+      "shop": "031-bigbang",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "032-tohoshinki",
+      "op": "added",
+      "value": "15/15"
+    },
+    {
+      "shop": "032-tohoshinki",
+      "op": "deleted",
+      "value": "23/23"
+    },
+    {
+      "shop": "032-tohoshinki",
+      "op": "xinanyu",
+      "value": "2300"
+    },
+    {
+      "shop": "032-tohoshinki",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "033-jujitsukaisen",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "033-jujitsukaisen",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "033-jujitsukaisen",
+      "op": "xinanyu",
+      "value": "480"
+    },
+    {
+      "shop": "033-jujitsukaisen",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "034-fgo",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "034-fgo",
+      "op": "deleted",
+      "value": "10/10"
+    },
+    {
+      "shop": "034-fgo",
+      "op": "xinanyu",
+      "value": "615"
+    },
+    {
+      "shop": "034-fgo",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "034-fgo-goods",
+      "op": "added",
+      "value": "72/78"
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "deleted",
+      "value": "37/40"
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "deleted",
+      "value": "98/100"
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "xinanyu",
+      "value": "15390"
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "xinanyu",
+      "value": "15390"
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "xinanyu",
+      "value": "15390"
+    },
+    {
+      "shop": "034-fgo-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "035-aot",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "035-aot",
+      "op": "deleted",
+      "value": "8/8"
+    },
+    {
+      "shop": "035-aot",
+      "op": "xinanyu",
+      "value": "362"
+    },
+    {
+      "shop": "035-aot",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "035-aot-goods",
+      "op": "added",
+      "value": "33/34"
+    },
+    {
+      "shop": "035-aot-goods",
+      "op": "added",
+      "value": "96/100"
+    },
+    {
+      "shop": "035-aot-goods",
+      "op": "deleted",
+      "value": "49/49"
+    },
+    {
+      "shop": "035-aot-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "035-aot-goods",
+      "op": "xinanyu",
+      "value": "14157"
+    },
+    {
+      "shop": "035-aot-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "036-bleach",
+      "op": "xinanyu",
+      "value": "73"
+    },
+    {
+      "shop": "036-bleach",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "037-love-life",
+      "op": "added",
+      "value": "19/19"
+    },
+    {
+      "shop": "037-love-life",
+      "op": "deleted",
+      "value": "27/27"
+    },
+    {
+      "shop": "037-love-life",
+      "op": "xinanyu",
+      "value": "2881"
+    },
+    {
+      "shop": "037-love-life",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "037-love-life-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "038-gintama",
+      "op": "added",
+      "value": "2/2"
+    },
+    {
+      "shop": "038-gintama",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "038-gintama",
+      "op": "xinanyu",
+      "value": "1174"
+    },
+    {
+      "shop": "038-gintama",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "038-gintama-goods",
+      "op": "added",
+      "value": "19/19"
+    },
+    {
+      "shop": "038-gintama-goods",
+      "op": "added",
+      "value": "97/100"
+    },
+    {
+      "shop": "038-gintama-goods",
+      "op": "deleted",
+      "value": "41/41"
+    },
+    {
+      "shop": "038-gintama-goods",
+      "op": "deleted",
+      "value": "100/100"
+    },
+    {
+      "shop": "038-gintama-goods",
+      "op": "xinanyu",
+      "value": "24003"
+    },
+    {
+      "shop": "038-gintama-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "039-macross",
+      "op": "added",
+      "value": "6/6"
+    },
+    {
+      "shop": "039-macross",
+      "op": "deleted",
+      "value": "13/13"
+    },
+    {
+      "shop": "039-macross",
+      "op": "xinanyu",
+      "value": "561"
+    },
+    {
+      "shop": "039-macross",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "039-macross-goods",
+      "op": "added",
+      "value": "23/25"
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "deleted",
+      "value": "31/32"
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "xinanyu",
+      "value": "2897"
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "xinanyu",
+      "value": "2697"
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "xinanyu",
+      "value": "2897"
+    },
+    {
+      "shop": "039-macross-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "040-re-zero",
+      "op": "added",
+      "value": "9/9"
+    },
+    {
+      "shop": "040-re-zero",
+      "op": "deleted",
+      "value": "10/10"
+    },
+    {
+      "shop": "040-re-zero",
+      "op": "xinanyu",
+      "value": "1249"
+    },
+    {
+      "shop": "040-re-zero",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "041-fujimi",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "041-fujimi",
+      "op": "xinanyu",
+      "value": "48"
+    },
+    {
+      "shop": "041-fujimi",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "042-tamiya",
+      "op": "added",
+      "value": "38/38"
+    },
+    {
+      "shop": "042-tamiya",
+      "op": "deleted",
+      "value": "38/38"
+    },
+    {
+      "shop": "042-tamiya",
+      "op": "xinanyu",
+      "value": "4056"
+    },
+    {
+      "shop": "042-tamiya",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "043-marvel",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "043-marvel",
+      "op": "deleted",
+      "value": "18/18"
+    },
+    {
+      "shop": "043-marvel",
+      "op": "xinanyu",
+      "value": "1958"
+    },
+    {
+      "shop": "043-marvel",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "043-marvel-goods",
+      "op": "added",
+      "value": "24/24"
+    },
+    {
+      "shop": "043-marvel-goods",
+      "op": "deleted",
+      "value": "42/42"
+    },
+    {
+      "shop": "043-marvel-goods",
+      "op": "xinanyu",
+      "value": "4236"
+    },
+    {
+      "shop": "043-marvel-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "044-transformer",
+      "op": "added",
+      "value": "8/9"
+    },
+    {
+      "shop": "044-transformer",
+      "op": "deleted",
+      "value": "16/16"
+    },
+    {
+      "shop": "044-transformer",
+      "op": "xinanyu",
+      "value": "1150"
+    },
+    {
+      "shop": "044-transformer",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "045-final-fantasy",
+      "op": "added",
+      "value": "7/8"
+    },
+    {
+      "shop": "045-final-fantasy",
+      "op": "deleted",
+      "value": "5/8"
+    },
+    {
+      "shop": "045-final-fantasy",
+      "op": "xinanyu",
+      "value": "763"
+    },
+    {
+      "shop": "045-final-fantasy",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "046-ultraman",
+      "op": "added",
+      "value": "50/51"
+    },
+    {
+      "shop": "046-ultraman",
+      "op": "deleted",
+      "value": "67/67"
+    },
+    {
+      "shop": "046-ultraman",
+      "op": "xinanyu",
+      "value": "8110"
+    },
+    {
+      "shop": "046-ultraman",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "046-ultraman-goods",
+      "op": "added",
+      "value": "79/79"
+    },
+    {
+      "shop": "046-ultraman-goods",
+      "op": "deleted",
+      "value": "25/25"
+    },
+    {
+      "shop": "046-ultraman-goods",
+      "op": "deleted",
+      "value": "99/100"
+    },
+    {
+      "shop": "046-ultraman-goods",
+      "op": "xinanyu",
+      "value": "14203"
+    },
+    {
+      "shop": "046-ultraman-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "047-dragon-quest",
+      "op": "added",
+      "value": "2/2"
+    },
+    {
+      "shop": "047-dragon-quest",
+      "op": "deleted",
+      "value": "21/21"
+    },
+    {
+      "shop": "047-dragon-quest",
+      "op": "xinanyu",
+      "value": "1312"
+    },
+    {
+      "shop": "047-dragon-quest",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "added",
+      "value": "54/62"
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "deleted",
+      "value": "85/85"
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "xinanyu",
+      "value": "9544"
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "xinanyu",
+      "value": "9544"
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "xinanyu",
+      "value": "9544"
+    },
+    {
+      "shop": "047-dragon-quest-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "048-conan",
+      "op": "added",
+      "value": "4/4"
+    },
+    {
+      "shop": "048-conan",
+      "op": "deleted",
+      "value": "7/7"
+    },
+    {
+      "shop": "048-conan",
+      "op": "xinanyu",
+      "value": "1374"
+    },
+    {
+      "shop": "048-conan",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "048-conan-goods",
+      "op": "added",
+      "value": "306/316"
+    },
+    {
+      "shop": "048-conan-goods",
+      "op": "deleted",
+      "value": "266/266"
+    },
+    {
+      "shop": "048-conan-goods",
+      "op": "xinanyu",
+      "value": "38267"
+    },
+    {
+      "shop": "048-conan-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "049-disney-goods",
+      "op": "added",
+      "value": "180/184"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "added",
+      "value": "31/31"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "added",
+      "value": "360/469"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "deleted",
+      "value": "13/13"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "deleted",
+      "value": "239/239"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "xinanyu",
+      "value": "138942"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "deleted",
+      "value": "471/479"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "deleted",
+      "value": "20/21"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "xinanyu",
+      "value": "140239"
+    },
+    {
+      "shop": "049-disney-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "050-sanrio-goods",
+      "op": "added",
+      "value": "39/41"
+    },
+    {
+      "shop": "050-sanrio-goods",
+      "op": "added",
+      "value": "372/401"
+    },
+    {
+      "shop": "050-sanrio-goods",
+      "op": "deleted",
+      "value": "436/437"
+    },
+    {
+      "shop": "050-sanrio-goods",
+      "op": "deleted",
+      "value": "45/45"
+    },
+    {
+      "shop": "050-sanrio-goods",
+      "op": "xinanyu",
+      "value": "71152"
+    },
+    {
+      "shop": "050-sanrio-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "051-doraemon-goods",
+      "op": "added",
+      "value": "80/84"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "added",
+      "value": "9/9"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "deleted",
+      "value": "36/36"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "deleted",
+      "value": "5/5"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "deleted",
+      "value": "11/11"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "deleted",
+      "value": "89/89"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "xinanyu",
+      "value": "16280"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "xinanyu",
+      "value": "16280"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "xinanyu",
+      "value": "16280"
+    },
+    {
+      "shop": "051-doraemon-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "052-tennis-ouji-goods",
+      "op": "added",
+      "value": "72/96"
+    },
+    {
+      "shop": "052-tennis-ouji-goods",
+      "op": "deleted",
+      "value": "88/88"
+    },
+    {
+      "shop": "052-tennis-ouji-goods",
+      "op": "xinanyu",
+      "value": "12608"
+    },
+    {
+      "shop": "052-tennis-ouji-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "053-giburi-goods",
+      "op": "added",
+      "value": "15/15"
+    },
+    {
+      "shop": "053-giburi-goods",
+      "op": "deleted",
+      "value": "25/25"
+    },
+    {
+      "shop": "053-giburi-goods",
+      "op": "xinanyu",
+      "value": "3882"
+    },
+    {
+      "shop": "053-giburi-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "054-other-anime-figures",
+      "op": "added",
+      "value": "14/14"
+    },
+    {
+      "shop": "054-other-anime-figures",
+      "op": "added",
+      "value": "252/329"
+    },
+    {
+      "shop": "054-other-anime-figures",
+      "op": "added",
+      "value": "0/2"
+    },
+    {
+      "shop": "054-other-anime-figures",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "054-other-anime-figures",
+      "op": "deleted",
+      "value": "307/310"
+    },
+    {
+      "shop": "054-other-anime-figures",
+      "op": "xinanyu",
+      "value": "40774"
+    },
+    {
+      "shop": "054-other-anime-figures",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "054-other-anime-goods",
+      "op": "added",
+      "value": "339/345"
+    },
+    {
+      "shop": "054-other-anime-goods",
+      "op": "added",
+      "value": "472/500"
+    },
+    {
+      "shop": "054-other-anime-goods",
+      "op": "deleted",
+      "value": "353/353"
+    },
+    {
+      "shop": "054-other-anime-goods",
+      "op": "deleted",
+      "value": "500/500"
+    },
+    {
+      "shop": "054-other-anime-goods",
+      "op": "xinanyu",
+      "value": "127370"
+    },
+    {
+      "shop": "054-other-anime-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "055-hermes",
+      "op": "added",
+      "value": "7/8"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "deleted",
+      "value": "16/16"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "xinanyu",
+      "value": "1863"
+    },
+    {
+      "shop": "055-hermes",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "056-prada",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "056-prada",
+      "op": "added",
+      "value": "12/22"
+    },
+    {
+      "shop": "056-prada",
+      "op": "added",
+      "value": "34/40"
+    },
+    {
+      "shop": "056-prada",
+      "op": "added",
+      "value": "4/4"
+    },
+    {
+      "shop": "056-prada",
+      "op": "deleted",
+      "value": "46/46"
+    },
+    {
+      "shop": "056-prada",
+      "op": "deleted",
+      "value": "4/6"
+    },
+    {
+      "shop": "056-prada",
+      "op": "deleted",
+      "value": "4/4"
+    },
+    {
+      "shop": "056-prada",
+      "op": "deleted",
+      "value": "21/21"
+    },
+    {
+      "shop": "056-prada",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "056-prada",
+      "op": "xinanyu",
+      "value": "6048"
+    },
+    {
+      "shop": "056-prada",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "056-prada",
+      "op": "xinanyu",
+      "value": "6206"
+    },
+    {
+      "shop": "056-prada",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "057-coach",
+      "op": "added",
+      "value": "3/5"
+    },
+    {
+      "shop": "057-coach",
+      "op": "added",
+      "value": "82/93"
+    },
+    {
+      "shop": "057-coach",
+      "op": "added",
+      "value": "6/7"
+    },
+    {
+      "shop": "057-coach",
+      "op": "deleted",
+      "value": "10/10"
+    },
+    {
+      "shop": "057-coach",
+      "op": "deleted",
+      "value": "75/76"
+    },
+    {
+      "shop": "057-coach",
+      "op": "deleted",
+      "value": "94/94"
+    },
+    {
+      "shop": "057-coach",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "057-coach",
+      "op": "xinanyu",
+      "value": "16228"
+    },
+    {
+      "shop": "057-coach",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "058-loewe",
+      "op": "added",
+      "value": "8/8"
+    },
+    {
+      "shop": "058-loewe",
+      "op": "deleted",
+      "value": "9/9"
+    },
+    {
+      "shop": "058-loewe",
+      "op": "xinanyu",
+      "value": "898"
+    },
+    {
+      "shop": "058-loewe",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "059-artist-goods",
+      "op": "added",
+      "value": "42/54"
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "deleted",
+      "value": "41/41"
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "xinanyu",
+      "value": "6552"
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "xinanyu",
+      "value": "6552"
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "xinanyu",
+      "value": "6552"
+    },
+    {
+      "shop": "059-artist-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "059-burberry",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "added",
+      "value": "5/6"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "deleted",
+      "value": "7/7"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "deleted",
+      "value": "9/9"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "xinanyu",
+      "value": "1118"
+    },
+    {
+      "shop": "059-burberry",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "060-ferragamo",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "060-ferragamo",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "060-ferragamo",
+      "op": "xinanyu",
+      "value": "126"
+    },
+    {
+      "shop": "060-ferragamo",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "061-chloe",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "061-chloe",
+      "op": "added",
+      "value": "5/5"
+    },
+    {
+      "shop": "061-chloe",
+      "op": "deleted",
+      "value": "6/6"
+    },
+    {
+      "shop": "061-chloe",
+      "op": "deleted",
+      "value": "12/12"
+    },
+    {
+      "shop": "061-chloe",
+      "op": "xinanyu",
+      "value": "1504"
+    },
+    {
+      "shop": "061-chloe",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "062-furla",
+      "op": "added",
+      "value": "31/32"
+    },
+    {
+      "shop": "062-furla",
+      "op": "added",
+      "value": "10/10"
+    },
+    {
+      "shop": "062-furla",
+      "op": "deleted",
+      "value": "49/49"
+    },
+    {
+      "shop": "062-furla",
+      "op": "deleted",
+      "value": "11/11"
+    },
+    {
+      "shop": "062-furla",
+      "op": "xinanyu",
+      "value": "5209"
+    },
+    {
+      "shop": "062-furla",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "063-bottega",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "added",
+      "value": "4/4"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "deleted",
+      "value": "3/3"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "xinanyu",
+      "value": "1508"
+    },
+    {
+      "shop": "063-bottega",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "064-other-lady-bags",
+      "op": "added",
+      "value": "25/27"
+    },
+    {
+      "shop": "064-other-lady-bags",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "064-other-lady-bags",
+      "op": "deleted",
+      "value": "42/48"
+    },
+    {
+      "shop": "064-other-lady-bags",
+      "op": "deleted",
+      "value": "95/100"
+    },
+    {
+      "shop": "064-other-lady-bags",
+      "op": "xinanyu",
+      "value": "13133"
+    },
+    {
+      "shop": "064-other-lady-bags",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "065-armani",
+      "op": "xinanyu",
+      "value": "31"
+    },
+    {
+      "shop": "065-armani",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "065-tokio",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "065-tokio",
+      "op": "xinanyu",
+      "value": "58"
+    },
+    {
+      "shop": "065-tokio",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "066-dundill",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "066-dundill",
+      "op": "xinanyu",
+      "value": "452"
+    },
+    {
+      "shop": "066-dundill",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "067-montblanc",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "067-montblanc",
+      "op": "xinanyu",
+      "value": "68"
+    },
+    {
+      "shop": "067-montblanc",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "068-bally",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "068-bally",
+      "op": "deleted",
+      "value": "2/2"
+    },
+    {
+      "shop": "068-bally",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "068-bally",
+      "op": "xinanyu",
+      "value": "206"
+    },
+    {
+      "shop": "068-bally",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "074-kanjani",
+      "op": "added",
+      "value": "33/37"
+    },
+    {
+      "shop": "074-kanjani",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "074-kanjani",
+      "op": "deleted",
+      "value": "54/54"
+    },
+    {
+      "shop": "074-kanjani",
+      "op": "xinanyu",
+      "value": "9406"
+    },
+    {
+      "shop": "074-kanjani",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "077-johnnys-west",
+      "op": "added",
+      "value": "13/13"
+    },
+    {
+      "shop": "077-johnnys-west",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "077-johnnys-west",
+      "op": "deleted",
+      "value": "38/38"
+    },
+    {
+      "shop": "077-johnnys-west",
+      "op": "xinanyu",
+      "value": "8594"
+    },
+    {
+      "shop": "077-johnnys-west",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "080-sexy-zone",
+      "op": "added",
+      "value": "44/44"
+    },
+    {
+      "shop": "080-sexy-zone",
+      "op": "deleted",
+      "value": "27/27"
+    },
+    {
+      "shop": "080-sexy-zone",
+      "op": "xinanyu",
+      "value": "5502"
+    },
+    {
+      "shop": "080-sexy-zone",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "93/93"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "94/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "91/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "96/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "77/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "081-hinatazaka46",
+      "op": "added",
+      "value": "100/100"
+    }
+  ],
+  [
+    {
+      "shop": "083-super-junior",
+      "op": "added",
+      "value": "2/2"
+    },
+    {
+      "shop": "083-super-junior",
+      "op": "deleted",
+      "value": "5/5"
+    },
+    {
+      "shop": "083-super-junior",
+      "op": "xinanyu",
+      "value": "590"
+    },
+    {
+      "shop": "083-super-junior",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "added",
+      "value": "34/34"
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "deleted",
+      "value": "20/20"
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "xinanyu",
+      "value": "1729"
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "xinanyu",
+      "value": "1729"
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "xinanyu",
+      "value": "1729"
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "xinanyu",
+      "value": "1729"
+    },
+    {
+      "shop": "085-kureyon-shinchan",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "74/76"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "92/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "88/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "95/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "90/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "96/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "97/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "94/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "89/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "96/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "93/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "95/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "84/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "086-tomika",
+      "op": "added",
+      "value": "95/100"
+    }
+  ],
+  [
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "087-ansanburu-stars",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "68/68"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "83/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "97/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "87/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "91/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "85/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "088-prince-sama-goods",
+      "op": "added",
+      "value": "94/100"
+    }
+  ],
+  [
+    {
+      "shop": "089-idol-master-goods",
+      "op": "xinanyu",
+      "value": "5067"
+    }
+  ],
+  [
+    {
+      "shop": "093-choco-egg-goods",
+      "op": "added",
+      "value": "52/61"
+    },
+    {
+      "shop": "093-choco-egg-goods",
+      "op": "deleted",
+      "value": "11/11"
+    },
+    {
+      "shop": "093-choco-egg-goods",
+      "op": "xinanyu",
+      "value": "1326"
+    },
+    {
+      "shop": "093-choco-egg-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "094-families-goods",
+      "op": "added",
+      "value": "9/9"
+    },
+    {
+      "shop": "094-families-goods",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "094-families-goods",
+      "op": "deleted",
+      "value": "21/21"
+    },
+    {
+      "shop": "094-families-goods",
+      "op": "xinanyu",
+      "value": "2365"
+    },
+    {
+      "shop": "094-families-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "094-families-goods",
+      "op": "xinanyu",
+      "value": "2365"
+    },
+    {
+      "shop": "094-families-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "added",
+      "value": "47/49"
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "deleted",
+      "value": "17/17"
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "xinanyu",
+      "value": "2180"
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "xinanyu",
+      "value": "1980"
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "xinanyu",
+      "value": "2180"
+    },
+    {
+      "shop": "098-monster-watch-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "099-kurokos-basketball-goods",
+      "op": "xinanyu",
+      "value": "2782"
+    },
+    {
+      "shop": "099-kurokos-basketball-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "099-kurokos-basketball-goods",
+      "op": "xinanyu",
+      "value": "2782"
+    },
+    {
+      "shop": "099-kurokos-basketball-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "106-animal-goods",
+      "op": "xinanyu",
+      "value": "14"
+    },
+    {
+      "shop": "106-animal-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "106-animal-goods",
+      "op": "xinanyu",
+      "value": "14"
+    },
+    {
+      "shop": "106-animal-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "112-agriculture-goods",
+      "op": "added",
+      "value": "5/6"
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "xinanyu",
+      "value": "123"
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "xinanyu",
+      "value": "123"
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "xinanyu",
+      "value": "123"
+    },
+    {
+      "shop": "112-agriculture-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "113-gokusen-goods",
+      "op": "added",
+      "value": "1/1"
+    },
+    {
+      "shop": "113-gokusen-goods",
+      "op": "xinanyu",
+      "value": "7"
+    },
+    {
+      "shop": "113-gokusen-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "116-kobato-goods",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "116-kobato-goods",
+      "op": "deleted",
+      "value": "1/1"
+    },
+    {
+      "shop": "116-kobato-goods",
+      "op": "xinanyu",
+      "value": "21"
+    },
+    {
+      "shop": "116-kobato-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "81/81"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "90/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "98/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "99/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "120-hakuoki-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "121-jikan-goods",
+      "op": "xinanyu",
+      "value": "22"
+    },
+    {
+      "shop": "121-jikan-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "121-jikan-goods",
+      "op": "xinanyu",
+      "value": "22"
+    },
+    {
+      "shop": "121-jikan-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "125-military-girl-goods",
+      "op": "xinanyu",
+      "value": "10"
+    },
+    {
+      "shop": "125-military-girl-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "127-luck-logic-goods",
+      "op": "added",
+      "value": "3/3"
+    },
+    {
+      "shop": "127-luck-logic-goods",
+      "op": "xinanyu",
+      "value": "104"
+    },
+    {
+      "shop": "127-luck-logic-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "129-magic-goods",
+      "op": "added",
+      "value": "32/32"
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "deleted",
+      "value": "14/14"
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "xinanyu",
+      "value": "1614"
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "xinanyu",
+      "value": "1614"
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "xinanyu",
+      "value": "1614"
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "started",
+      "value": ""
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "xinanyu",
+      "value": "1614"
+    },
+    {
+      "shop": "129-magic-goods",
+      "op": "started",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "60/60"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "95/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "added",
+      "value": "100/100"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "xinanyu",
+      "value": "0"
+    },
+    {
+      "shop": "130-future-card-goods",
+      "op": "started",
+      "value": ""
+    }
+  ]
+]

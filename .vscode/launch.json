@@ -5,13 +5,31 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "insig",
+            "program": "${workspaceFolder}/collector-summary-insight.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
             "type": "pwa-node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "collector",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/collector-summary.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "sync",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/sync-analyze.js"
         }
     ]
 }
